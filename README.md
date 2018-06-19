@@ -61,8 +61,11 @@
 
 
 ## 什么样得前端才值钱
-1、懂后端语言 java node php
-2、react vue webpack 面向对象 后端交互 mvvm原理
+   1、懂后端语言 java node php
+
+   2、react vue webpack 面向对象 后端交互 mvvm原理
+
+
 
 
 
