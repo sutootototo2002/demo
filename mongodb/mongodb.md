@@ -7,3 +7,7 @@ sudo systemctl start mongodb.service
     use admin
     db.createUser({user:"admin",pwd:"admin",roles:[{"role":"userAdminAnyDatabase","db":"admin"}]})
     
+### 利用Robot3T 连接mongodb远程服务器
+![](https://i.imgur.com/xTqtekc.png)
+
+![](https://i.imgur.com/30Hp40D.png)
